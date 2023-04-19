@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../웹퍼블리싱/web2.html"
+		},
+		{
+			"path": "../../웹퍼블리싱/test222.html"
+		},
+		{
+			"path": "../../웹퍼블리싱/week4.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week4.html"
+	}
+}
